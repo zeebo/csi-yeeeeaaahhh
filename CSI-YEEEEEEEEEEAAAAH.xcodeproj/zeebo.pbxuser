@@ -1,0 +1,254 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CSI-YEEEEEEEEEEAAAAH */ = {
+		activeExec = 0;
+		executables = (
+			E91D2953110AD455001CB74E /* CSI-YEEEEEEEEEEAAAAH */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1136, 566}}";
+			sepNavSelRange = "{508, 0}";
+			sepNavVisRange = "{0, 522}";
+			sepNavWindowFrame = "{{15, 479}, {1195, 694}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1136, 975}}";
+			sepNavSelRange = "{394, 0}";
+			sepNavVisRange = "{268, 1237}";
+			sepNavWindowFrame = "{{484, 469}, {1195, 694}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E91D2953110AD455001CB74E /* CSI-YEEEEEEEEEEAAAAH */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CSI-YEEEEEEEEEEAAAAH */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CSI-YEEEEEEEEEEAAAAH */,
+		);
+		codeSenseManager = E91D2964110AD46F001CB74E /* Code sense */;
+		executables = (
+			E91D2953110AD455001CB74E /* CSI-YEEEEEEEEEEAAAAH */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285922389;
+			PBXWorkspaceStateSaveDate = 285922389;
+		};
+		perUserProjectItems = {
+			E91D2980110AD608001CB74E /* PBXBookmark */ = E91D2980110AD608001CB74E /* PBXBookmark */;
+			E91D29A3110ADCCE001CB74E /* XCBuildMessageTextBookmark */ = E91D29A3110ADCCE001CB74E /* XCBuildMessageTextBookmark */;
+			E91D29A4110ADCCE001CB74E /* PBXTextBookmark */ = E91D29A4110ADCCE001CB74E /* PBXTextBookmark */;
+			E91D29A9110ADD13001CB74E /* PBXTextBookmark */ = E91D29A9110ADD13001CB74E /* PBXTextBookmark */;
+			E91D29AA110ADD13001CB74E /* PlistBookmark */ = E91D29AA110ADD13001CB74E /* PlistBookmark */;
+			E91D29AB110ADD13001CB74E /* PlistBookmark */ = E91D29AB110ADD13001CB74E /* PlistBookmark */;
+			E91D29AE110ADD13001CB74E /* PBXTextBookmark */ = E91D29AE110ADD13001CB74E /* PBXTextBookmark */;
+			E91D29AF110ADD13001CB74E /* PBXTextBookmark */ = E91D29AF110ADD13001CB74E /* PBXTextBookmark */;
+			E91D29B2110ADD13001CB74E /* PBXTextBookmark */ = E91D29B2110ADD13001CB74E /* PBXTextBookmark */;
+			E91D29BD110AE029001CB74E /* PBXTextBookmark */ = E91D29BD110AE029001CB74E /* PBXTextBookmark */;
+			E91D29BE110AE02E001CB74E /* PlistBookmark */ = E91D29BE110AE02E001CB74E /* PlistBookmark */;
+		};
+		sourceControlManager = E91D2963110AD46F001CB74E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E91D2953110AD455001CB74E /* CSI-YEEEEEEEEEEAAAAH */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "CSI-YEEEEEEEEEEAAAAH";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E91D2963110AD46F001CB74E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E91D2964110AD46F001CB74E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E91D2980110AD608001CB74E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.h */;
+	};
+	E91D29A3110ADCCE001CB74E /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Too many arguments to function 'CFBundleCopyBundleURL'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 44;
+		rType = 1;
+	};
+	E91D29A4110ADCCE001CB74E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */;
+		name = "CSI_YEEEEEEEEEEAAAAHViewController.m: 16";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 0;
+	};
+	E91D29A9110ADD13001CB74E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */;
+		name = "CSI_YEEEEEEEEEEAAAAHViewController.m: 42";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 397;
+		vrLoc = 816;
+	};
+	E91D29AA110ADD13001CB74E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CSI_YEEEEEEEEEEAAAAH-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/zeebo/Desktop/CSI-YEEEEEEEEEEAAAAH/CSI_YEEEEEEEEEEAAAAH-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E91D29AB110ADD13001CB74E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CSI_YEEEEEEEEEEAAAAH-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/zeebo/Desktop/CSI-YEEEEEEEEEEAAAAH/CSI_YEEEEEEEEEEAAAAH-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E91D29AE110ADD13001CB74E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */;
+		name = "CSI_YEEEEEEEEEEAAAAHViewController.m: 14";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 995;
+		vrLoc = 0;
+	};
+	E91D29AF110ADD13001CB74E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */;
+		name = "CSI_YEEEEEEEEEEAAAAHViewController.m: 16";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 1166;
+		vrLoc = 268;
+	};
+	E91D29B2110ADD13001CB74E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.h */;
+		name = "CSI_YEEEEEEEEEEAAAAHViewController.h: 19";
+		rLen = 0;
+		rLoc = 508;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 0;
+	};
+	E91D29BD110AE029001CB74E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CSI_YEEEEEEEEEEAAAAHViewController.m */;
+		name = "CSI_YEEEEEEEEEEAAAAHViewController.m: 16";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 0;
+	};
+	E91D29BE110AE02E001CB74E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CSI_YEEEEEEEEEEAAAAH-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/zeebo/Desktop/CSI-YEEEEEEEEEEAAAAH/CSI_YEEEEEEEEEEAAAAH-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
